@@ -2,7 +2,7 @@
 
 Submitted by: **Vince Mercado**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -24,6 +24,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Fa6r3"><a href="//imgur.com/Fa6r3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 http://imgur.com/a/Fa6r3
 
